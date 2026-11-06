@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Gun 3D: Voxel Arena",
+  "description": "Action-packed 3D voxel first-person shooter with blocky arenas, diverse pixel weapons, jump pads, rocket jumps, and wave survival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
